@@ -1,0 +1,23 @@
+[
+  {
+    "question":"Are you responsible for the profitability of the product (ROI)?",
+    "answers":{
+      "no":47,
+      "yes":53
+    },
+    "question":"When it comes to adopting Agile at DOKU, how much of a barrier do you think are the following items? [Pre-existing rigid/waterfall framework]",
+    "answers":{
+      "High barrier":12,
+      "Partial barrier":26,
+      "Small barrier":46,
+      "No barrier":14
+    },
+    "question":"How would you rate your experience with following expertise? [Stakeholder Communication]",
+    "answers":{
+      "Some experience":29,
+      "Experienced":38,
+      "Very experienced":15,
+      "Extremely experienced":2
+    }
+  }
+]
